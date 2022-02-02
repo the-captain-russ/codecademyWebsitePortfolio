@@ -1,0 +1,206 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2636
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Times-Bold;\f1\from/Users/russellshank/Documents/currentProjects/codecademyWebsitePortfolio/resources/resume_no_format.txtan\fcharset0 Times-Roman;\f2\froman\fcharset0 Times-Italic;
+\f3\froman\fcharset0 Times-BoldItalic;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue10;\red255\green0\blue0;}
+{\*\expandedcolortbl;;\csgenericrgb\c0\c0\c3922;\csgenericrgb\c100000\c0\c0;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid101\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid2}
+{\list\listtemplateid3\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid201\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid3}
+{\list\listtemplateid4\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid301\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid4}
+{\list\listtemplateid5\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid401\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid5}
+{\list\listtemplateid6\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid501\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid6}
+{\list\listtemplateid7\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid601\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid7}
+{\list\listtemplateid8\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid701\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid8}
+{\list\listtemplateid9\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid801\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid9}
+{\list\listtemplateid10\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid901\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid10}
+{\list\listtemplateid11\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1001\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid11}
+{\list\listtemplateid12\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1101\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid12}
+{\list\listtemplateid13\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1201\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid13}
+{\list\listtemplateid14\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1301\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid14}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}{\listoverride\listid4\listoverridecount0\ls4}{\listoverride\listid5\listoverridecount0\ls5}{\listoverride\listid6\listoverridecount0\ls6}{\listoverride\listid7\listoverridecount0\ls7}{\listoverride\listid8\listoverridecount0\ls8}{\listoverride\listid9\listoverridecount0\ls9}{\listoverride\listid10\listoverridecount0\ls10}{\listoverride\listid11\listoverridecount0\ls11}{\listoverride\listid12\listoverridecount0\ls12}{\listoverride\listid13\listoverridecount0\ls13}{\listoverride\listid14\listoverridecount0\ls14}}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\pardirnatural\partightenfactor0
+
+\f0\b\fs28 \cf0 Professional Experience\
+\pard\pardeftab720\pardirnatural\partightenfactor0
+
+\fs24 \cf0 Paragon Sight & Sound 
+\f1\b0 Ann Arbor, MI\
+\pard\pardeftab720\pardirnatural\partightenfactor0
+
+\f2\i \cf0 Director of Technology: [January, 2018 \'96 December, 2021]\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\pardirnatural\partightenfactor0
+\ls1\ilvl0
+\f1\i0 \cf0 {\listtext	\uc0\u8226 	}Design and engineer automation systems for residential spaces including: audio & video over IP distribution systems, WiFi and ethernet connected networks, wired and wireless lighting control systems, security camera recording, and automated shading systems.\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\pardirnatural\partightenfactor0
+\ls1\ilvl0
+\fs22 \cf0 {\listtext	\uc0\u8226 	}Perform site surveys of homes for proper placement of WiFi connected devices in both 5Ghz and 2.4 Ghz bands.\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\pardirnatural\partightenfactor0
+\ls1\ilvl0
+\fs24 \cf0 {\listtext	\uc0\u8226 	}Oversee progress of projects and work with Project Manager and customer to adapt design throughout the installation process.\
+{\listtext	\uc0\u8226 	}Manage an installation team of three people to install audiovisual system as designed to spec.\
+{\listtext	\uc0\u8226 	}Maintain a relationship with vendors regarding system updates, known issues, new hardware, new software features, and trainings.\
+{\listtext	\uc0\u8226 	}Finish installation of more complex automation systems including integration between Lutron Homeworks QS, Illumination, and Savant.\
+{\listtext	\uc0\u8226 	}Department is on pace to generate $1.4 Million in revenue, which is an increase of nearly 75% over 2020\'92s revenue.\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\rtlpar\qr\partightenfactor0
+\ls1\ilvl0\cf0 {\listtext	\uc0\u8226 	}Ambassador qualification with Savant for the years of 2019 and 2020.\
+{\listtext	\uc0\u8226 	}Vendor status with Lutron improved from Silver to Gold in 2018 with over $125,000 spent for the year.\
+{\listtext	\uc0\u8226 	}Increased the size of installation team from two to four members from 2019 to 2021.\
+\pard\pardeftab720\pardirnatural\partightenfactor0
+
+\f2\i \cf0 Integrations Specialist: [June, 2016 \'96 January, 2018]\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\pardirnatural\partightenfactor0
+\ls2\ilvl0\cf0 {\listtext	\uc0\u8226 	}After completion of Savant manufacturer training, designated as lead programmer for Savant systems.\
+{\listtext	\uc0\u8226 	}Programed automation systems as designed to integrate lighting & shades, distribute video to multiple endpoints, stream music through-out multiple spaces, adjust temperature, and integrate other 3\super rd\nosupersub  party systems together.\
+{\listtext	\uc0\u8226 	}Programmed Lutron Homeworks and RadioRa2 Systems for control of lighting and shades.\
+{\listtext	\uc0\u8226 	}Led installation of a team of two to install automation projects for systems following the specifications of designer.\
+{\listtext	\uc0\u8226 	}Worked with clients to identify system adjustments during installation process.\
+{\listtext	\uc0\u8226 	}Serviced installed systems and troubleshot problems in audiovisual systems, local area networks, and video distribution.\
+{\listtext	\uc0\u8226 	}Built custom automations with timers and control macros for advanced control of multi-use spaces.\
+{\listtext	\uc0\u8226 	}Worked with Vendor technical support to identify defective hardware and replace units as necessary.\
+{\listtext	\uc0\u8226 	}Trained clients on use of automation systems, remote controls, keypads, touch screens, lighting control interfaces, and other audiovisual systems.\
+\pard\pardeftab720\pardirnatural\partightenfactor0
+\cf0 Audiovisual Installation Technician: [January, 2016 - June, 2016]\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\pardirnatural\partightenfactor0
+\ls3\ilvl0\cf0 {\listtext	\uc0\u8226 	}Worked with a team of two to three other people to install audiovisual systems from beginning to end\
+{\listtext	\uc0\u8226 	}Prewired new and existing homes for speakers, network connectivity, video distribution.\
+{\listtext	\uc0\u8226 	}Prepped home for finish by terminating wiring, cutting in-ceiling speakers, installing wireless access points, and placing enclosed racks and rack mounted equipment.\
+{\listtext	\uc0\u8226 	}Final installation of wall-mounted televisions, theater projection systems, audiovisual equipment, automation systems, and local area network.\
+{\listtext	\uc0\u8226 	}Service technician as required for existing systems.\
+\pard\pardeftab720\pardirnatural\partightenfactor0
+\cf0 \
+\pard\pardeftab720\pardirnatural\partightenfactor0
+
+\f0\i0\b \cf0 Crutchfield 
+\f1\b0 Harrisonburg, VA\
+\pard\pardeftab720\rtlpar\qr\partightenfactor0
+
+\f2\i \cf0 Lead Home Installation/Consultant: [October, 2014 \'96 November, 2015]\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\pardirnatural\partightenfactor0
+\ls4\ilvl0\cf0 {\listtext	\uc0\u8226 	}Coordinated with sales engineers and customers to design and install audiovisual systems.\
+{\listtext	\uc0\u8226 	}Designed and supplied plans for theaters in residential spaces in new construction and existing homes.\
+{\listtext	\uc0\u8226 	}Lead installer of a two-man team for audiovisual installations.\
+{\listtext	\uc0\u8226 	}Programmed Logitech Harmony systems for universal remote control of basic automation systems.\
+\pard\pardeftab720\pardirnatural\partightenfactor0
+\cf0 \
+\pard\pardeftab720\pardirnatural\partightenfactor0
+
+\f0\i0\b \cf0 Comsonics 
+\f1\b0 Harrisonburg, VA\
+\pard\pardeftab720\rtlpar\qr\partightenfactor0
+
+\f2\i \cf0 Senior Electronics Technician: [September, 2012 \'96 October, 2014]\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\rtlpar\qr\partightenfactor0
+\ls5\ilvl0\cf0 {\listtext	\uc0\u8226 	}Tested defective line amplification devices and provided detailed instructions to soldering technicians for repair.\
+{\listtext	\uc0\u8226 	}Inspected units to verify proper repair techniques had been used and that unit was functioning as expected.\
+{\listtext	\uc0\u8226 	}Selected for training of J-STD-001 and IPC-A-610 soldering methods.\
+{\listtext	\uc0\u8226 	}Tasked with providing a PowerPoint and training to the other members of the shift for the advanced soldering methods.\
+{\listtext	\uc0\u8226 	}Assisted in transition to IPC 9001 certification as an auditor.\
+\pard\pardeftab720\rtlpar\qr\partightenfactor0
+\cf0 Electronics Technician: [September, 2009 \'96 October, 2011]\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\pardirnatural\partightenfactor0
+\ls6\ilvl0\cf0 {\listtext	\uc0\u8226 	}Troubleshot and repaired cable line amplification equipment.\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\rtlpar\qr\partightenfactor0
+\ls6\ilvl0\cf0 {\listtext	\uc0\u8226 	}Assisted as testing supervisor for line amplifier repair program.\
+\pard\pardeftab720\pardirnatural\partightenfactor0
+\cf0 \
+\pard\pardeftab720\pardirnatural\partightenfactor0
+
+\f0\i0\b \cf0 Infusion Audio Systems 
+\f1\b0 Harrisonburg, VA\
+\pard\pardeftab720\rtlpar\qr\partightenfactor0
+
+\f2\i \cf0 Audiovisual Installation Technician/Programmer: [May, 2012 \'96 September, 2012]\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\rtlpar\qr\partightenfactor0
+\ls7\ilvl0\cf0 {\listtext	\uc0\u8226 	}Installed audiovisual systems as designed for small homes and commercial spaces.\
+{\listtext	\uc0\u8226 	}After completion of Control4 Training, began programming Control4 Systems as required.\
+\pard\pardeftab720\rtlpar\qr\partightenfactor0
+\cf0 \
+\pard\pardeftab720\pardirnatural\partightenfactor0
+
+\f0\i0\b \cf0 Integrity Audio Systems Dayton, VA\
+\pard\pardeftab720\rtlpar\qr\partightenfactor0
+
+\f2\i\b0 \cf0 Audiovisual Installation Technician: [February, 2009 \'96 September, 2009] [October, 2011 \'96 April, 2012]\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\rtlpar\qr\partightenfactor0
+\ls8\ilvl0\cf0 {\listtext	\uc0\u8226 	}Assisted in the installation of audio and video systems for houses of worship and small commercial spaces.\
+{\listtext	\uc0\u8226 	}Ran wire for speakers, installed amplifiers and set up sound boards for use with microphones and other sound reinforcement devices such as hearing assist systems and 70 volt background music areas.\
+{\listtext	\uc0\u8226 	}Provided primary training and assistance on the first digital board installed by Integrity Audio Systems.\
+{\listtext	\uc0\u8226 	}Setup and ran Real Time Analysis frequency spectrum balancing for room correction after system installation.\
+{\listtext	\uc0\u8226 	}Provided support for Purchase Orders and inventory management.\
+{\listtext	\uc0\u8226 	}Service for existing systems as required.\
+\pard\pardeftab720\pardirnatural\partightenfactor0
+\cf0 \
+\pard\pardeftab720\pardirnatural\partightenfactor0
+
+\f0\i0\b \cf0 US Navy Music Program New Orleans, LA\
+\pard\pardeftab720\rtlpar\qr\partightenfactor0
+
+\f2\i\b0 \cf0 Music Specialist: [June, 2002 \'96 July, 2006]\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\rtlpar\qr\partightenfactor0
+\ls9\ilvl0\cf0 {\listtext	\uc0\u8226 	}Primary Keyboard Instrumentalist for Rock Band, Big Band, and Wind Ensemble.\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\rtlpar\qr\partightenfactor0
+\ls9\ilvl0\cf2 {\listtext	\uc0\u8226 	}Assistant Supply Officer managing inventory of instruments for band, including a change over to Microsoft Access for digital management of the band\'92s inventory.\
+{\listtext	\uc0\u8226 	}\striked1 \strikec2 Sound technician f\cf0 \strike0\striked0 or Navy Balls, Mardi Gras Parades and other events as able.\
+\ls9\ilvl0\cf2 {\listtext	\uc0\u8226 	}\striked1 \strikec2 Assistant \cf0 \strikec0 Master at Arms charged with maintaining a cleanliness schedule and security for the band\'92s operating headquarters.\
+\ls9\ilvl0\cf2 \strike0\striked0 {\listtext	\uc0\u8226 	}Transported Navy vehicles out of New Orleans after Hurricane Katrina,\cf3  \cf2 ensuring\cf3  \cf2 Navy vehicles were available for band operations during evacuation in Memphis, TN.\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\rtlpar\qr\partightenfactor0
+\ls9\ilvl0\cf0 {\listtext	\uc0\u8226 	}Awarded: Navy Achievement Medal, Good Conduct Award, and Bluejacket of the Quarter for the second quarter of 2003.\
+\pard\pardeftab720\pardirnatural\partightenfactor0
+\cf0 \
+\pard\pardeftab720\pardirnatural\partightenfactor0
+
+\f3\b\fs28 \cf0 Education\
+\
+\pard\pardeftab720\pardirnatural\partightenfactor0
+
+\fs24 \cf0 ITT Technical Institute New Orleans [September, 2006 \'96 March 2007] Norwood, MA [March, 2007 \'96 January, 2009]\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\pardirnatural\partightenfactor0
+\ls10\ilvl0\cf0 {\listtext	\uc0\u8226 	}Associate in Applied Science Degree of Computer and Electronics Technology.\
+{\listtext	\uc0\u8226 	}4.0 GPA.\
+\pard\pardeftab720\pardirnatural\partightenfactor0
+\cf0 \
+US Navy Basic Training [August, 2001 \'96 December, 2001] Armed Forces School of Music [December, 2001 \'96 June, 2002]\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\pardirnatural\partightenfactor0
+\ls11\ilvl0\cf0 {\listtext	\uc0\u8226 	}Selected as Recruit Education Officer and Assistant Master at Arms in Basic Training.\
+{\listtext	\uc0\u8226 	}Completed Music Basic Course at School of Music.\
+\pard\pardeftab720\pardirnatural\partightenfactor0
+\cf0 \
+Manufacturer Trainings:\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\pardirnatural\partightenfactor0
+\ls12\ilvl0\cf0 {\listtext	\uc0\u8226 	}Lutron Homeworks QS & Radio Ra2 Exclusive.\
+{\listtext	\uc0\u8226 	}Savant Programming Certificate.\
+{\listtext	\uc0\u8226 	}Vantage Lighting Online Certificate.\
+{\listtext	\uc0\u8226 	}Control4 Programming Certificate.\
+{\listtext	\uc0\u8226 	}Elan Programming Certificate.\
+\pard\pardeftab720\pardirnatural\partightenfactor0
+\cf0 \
+Davenport University, Grand Rapids, MI (Virtual) [January, 2020 \'96 October, 2020]\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\pardirnatural\partightenfactor0
+\ls13\ilvl0\cf0 {\listtext	\uc0\u8226 	}Completed Two Semesters of Computer Programming Degree with Specialty in Data Base Design and Management.\
+\pard\pardeftab720\pardirnatural\partightenfactor0
+\cf0 \
+\pard\pardeftab720\pardirnatural\partightenfactor0
+
+\fs28 \cf0 Skills\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\pardirnatural\partightenfactor0
+\ls14\ilvl0
+\f2\b0\fs24 \cf0 {\listtext	\uc0\u8226 	}Microsoft Office: Word, Excel, PowerPoint, Outlook, Project, Teams\
+{\listtext	\uc0\u8226 	}Soldering\
+{\listtext	\uc0\u8226 	}Troubleshooting\
+{\listtext	\uc0\u8226 	}Verbal and written communication\
+{\listtext	\uc0\u8226 	}Attention to detail\
+{\listtext	\uc0\u8226 	}Project planning\
+{\listtext	\uc0\u8226 	}Organization\
+{\listtext	\uc0\u8226 	}Wire termination & testing: RJ45, RG6, Speaker Terminals\
+{\listtext	\uc0\u8226 	}Teamwork\
+{\listtext	\uc0\u8226 	}Mac OS X and Windows\
+{\listtext	\uc0\u8226 	}Wire pulling\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\rtlpar\qr\partightenfactor0
+\ls14\ilvl0\cf0 {\listtext	\uc0\u8226 	}Command Line Interface: Mac OS X Terminal, Windows Command Prompt\
+{\listtext	\uc0\u8226 	}Basic understanding of Python, C#, HTTP, & other programming languages\
+{\listtext	\uc0\u8226 	}Networking: VLAN\'92s, VPN, STP, DHCP, POE, DNS\
+\pard\pardeftab720\pardirnatural\partightenfactor0
+\cf0 \
+}

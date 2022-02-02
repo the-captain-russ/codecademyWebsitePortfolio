@@ -1,0 +1,179 @@
+body {
+    background-color: bisque;
+    font-family:'Courier New', Courier, monospace
+}
+
+#main-header {
+    background-color:cadetblue;
+    display: flex;
+    padding: 1rem;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border-radius: 5px;
+}
+
+header h1 {
+    margin-bottom: 0;
+    margin-left: 2rem;
+}
+
+nav {
+    width: 75%;
+}
+
+nav li {
+    display: flex;
+}
+
+a:link {
+    color: blanchedalmond;
+}
+
+a:visited {
+    color: blanchedalmond;
+}
+
+a:hover {
+    color:aqua;
+    background-color: darkgrey;
+}
+
+header .contact-info {
+    display:  inline-flex;
+
+
+}
+
+header .contact-info p { 
+    padding: 0 1rem;
+    margin: 0 1rem;
+}
+
+nav ul {
+    display: flex;
+    justify-content: end;
+}
+
+nav li {
+    margin: 1rem;
+}
+
+#grid {
+    background-color: grey;
+    margin: 2.5px 0px;
+    color: white;
+    padding: 2rem;
+    display: grid;
+    border-radius: 5px;
+    grid-template-columns: 75% 25%;
+    grid-template-rows: 20rem 20rem 20rem 20rem ;
+}
+
+h1, h2, h3 {
+    text-align: center;
+    margin-bottom: 0;
+}
+
+h2 {
+    padding: 1rem;
+    margin-left: 1.5px;
+}
+
+.info-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.experience-header {
+    background-color:cadetblue;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    color: black;
+    margin-bottom: 3px;
+}
+
+.employment-nav ul {
+    display: inline-flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: .5rem 1rem;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0;
+}
+
+.employment-nav li {
+    display: flex;
+    margin: 5px 5px;
+}
+
+.employment-box {
+    margin: 1em; 
+}
+
+.li-header {
+    font-size: 1.5rem;
+    font-weight: bolder;
+    text-decoration: underline;
+    list-style-type: none;
+}
+
+#skills {
+    grid-column-start: 2;
+    grid-row-start: 1;
+}
+
+.scroll-box {
+    overflow: scroll;
+    max-height: 500px;
+    border: 1.5px solid black;
+    padding: 1rem;
+}
+
+
+#education {
+    grid-column-start: 1;
+    grid-row:3 / span 2;
+}
+
+.education-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.education-box h3 {
+    text-align: center;
+    margin: 0 0;
+}
+
+.education-box h4 {
+    font-weight: normal;
+    margin: 0 0 ;
+    text-align: center;
+}
+
+.education-box ul {
+    text-align: start;
+}
+
+aside {
+    margin-left: 1rem;
+    margin-right: 1rem;
+    grid-column: 2 / span 1;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    position: relative;
+
+}
+
+footer p {
+    margin: 2rem;
+    padding: 1rem;
+}

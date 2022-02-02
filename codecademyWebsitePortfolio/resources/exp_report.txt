@@ -1,0 +1,52 @@
+Paragon Sight & Sound
+['[January, 2018 – December, 2021]', '[June, 2016 – January, 2018]', '[January, 2016 - June, 2016]']
+['Director of Technology:', 'Integrations Specialist:', 'Audiovisual Installation Technician:']
+['Ann Arbor, MI']
+['Design and engineer automation systems for residential spaces including: audio & video over IP distribution systems, WiFi and ethernet connected networks, wired and wireless lighting control systems, security camera recording, and automated shading systems.', 'Perform site surveys of homes for proper placement of WiFi connected devices in both 5Ghz and 2.4 Ghz bands.', 'Oversee progress of projects and work with Project Manager and customer to adapt design throughout the installation process.', 'Manage an installation team of three people to install audiovisual system as designed to spec.', 'Maintain a relationship with vendors regarding system updates, known issues, new hardware, new software features, and trainings.', 'Finish installation of more complex automation systems including integration between Lutron Homeworks QS, Illumination, and Savant.', 'Department is on pace to generate $1.4 Million in revenue, which is an increase of nearly 75% over 2020’s revenue.', 'Ambassador qualification with Savant for the years of 2019 and 2020.', 'Vendor status with Lutron improved from Silver to Gold in 2018 with over $125,000 spent for the year.', 'Increased the size of installation team from two to four members from 2019 to 2021.', 'After completion of Savant manufacturer training, designated as lead programmer for Savant systems.', 'Programed automation systems as designed to integrate lighting & shades, distribute video to multiple endpoints, stream music through-out multiple spaces, adjust temperature, and integrate other 3rd party systems together.', 'Programmed Lutron Homeworks and RadioRa2 Systems for control of lighting and shades.', 'Led installation of a team of two to install automation projects for systems following the specifications of designer.', 'Worked with clients to identify system adjustments during installation process.', 'Serviced installed systems and troubleshot problems in audiovisual systems, local area networks, and video distribution.', 'Built custom automations with timers and control macros for advanced control of multi-use spaces.', 'Worked with Vendor technical support to identify defective hardware and replace units as necessary.', 'Trained clients on use of automation systems, remote controls, keypads, touch screens, lighting control interfaces, and other audiovisual systems.', 'Worked with a team of two to three other people to install audiovisual systems from beginning to end', 'Prewired new and existing homes for speakers, network connectivity, video distribution.', 'Prepped home for finish by terminating wiring, cutting in-ceiling speakers, installing wireless access points, and placing enclosed racks and rack mounted equipment.', 'Final installation of wall-mounted televisions, theater projection systems, audiovisual equipment, automation systems, and local area network.', 'Service technician as required for existing systems.']
+Crutchfield
+['[October, 2014 – November, 2015]']
+['Lead Home Installation/Consultant:']
+['Harrisonburg, VA']
+['Coordinated with sales engineers and customers to design and install audiovisual systems.', 'Designed and supplied plans for theaters in residential spaces in new construction and existing homes.', 'Lead installer of a two-man team for audiovisual installations.', 'Programmed Logitech Harmony systems for universal remote control of basic automation systems.']
+Comsonics
+['[September, 2012 – October, 2014]', '[September, 2009 – October, 2011]']
+['Senior Electronics Technician:', 'Electronics Technician:']
+[' Harrisonburg, VA']
+['Tested defective line amplification devices and provided detailed instructions to soldering technicians for repair.', 'Inspected units to verify proper repair techniques had been used and that unit was functioning as expected.', 'Selected for training of J-STD-001 and IPC-A-610 soldering methods.', 'Tasked with providing a PowerPoint and training to the other members of the shift for the advanced soldering methods.', 'Assisted in transition to IPC 9001 certification as an auditor.', 'Troubleshot and repaired cable line amplification equipment.', 'Assisted as testing supervisor for line amplifier repair program.']
+Infusion Audio Systems
+['[May, 2012 – September, 2012]']
+['Audiovisual Installation Technician/Programmer:']
+['Harrisonburg, VA']
+['Installed audiovisual systems as designed for small homes and commercial spaces.', 'After completion of Control4 Training, began programming Control4 Systems as required.']
+Integrity Audio Systems
+['[February, 2009 – September, 2009]', '[October, 2011 – April, 2012]']
+['Audiovisual Installation Technician:']
+['Dayton, VA']
+['Assisted in the installation of audio and video systems for houses of worship and small commercial spaces.', 'Ran wire for speakers, installed amplifiers and set up sound boards for use with microphones and other sound reinforcement devices such as hearing assist systems and 70 volt background music areas.', 'Provided primary training and assistance on the first digital board installed by Integrity Audio Systems.', 'Setup and ran Real Time Analysis frequency spectrum balancing for room correction after system installation.', 'Provided support for Purchase Orders and inventory management.', 'Service for existing systems as required.']
+US Navy Music Program
+['[June, 2002 – July, 2006]']
+['Music Specialist:']
+['New Orleans, LA']
+['Primary Keyboard Instrumentalist for Rock Band, Big Band, and Wind Ensemble.', 'Assistant Supply Officer managing inventory of instruments for band, including a change over to Microsoft Access for digital management of the band’s inventory.', 'Sound technician for Navy Balls, Mardi Gras Parades and other events as able.', 'Assistant Master at Arms charged with maintaining a cleanliness schedule and security for the band’s operating headquarters.', 'Transported Navy vehicles out of New Orleans after Hurricane Katrina, ensuring Navy vehicles were available for band operations during evacuation in Memphis, TN.', 'Awarded: Navy Achievement Medal, Good Conduct Award, and Bluejacket of the Quarter for the second quarter of 2003.']
+ITT Technical Institute
+['[September, 2006 – March 2007]', '[March, 2007 – January, 2009]']
+['New Orleans', 'Norwood, MA']
+['Associate in Applied Science Degree of Computer and Electronics Technology.', '4.0 GPA.']
+US Navy Basic Training
+['[August, 2001 – December, 2001]']
+[]
+[]
+Armed Forces School of Music
+['[December, 2001 – June, 2002]']
+[]
+['Selected as Recruit Education Officer and Assistant Master at Arms in Basic Training.', 'Completed Music Basic Course at School of Music.']
+Manufacturer Trainings:
+['[January, 2016 - December, 2021]']
+[]
+['Lutron Homeworks QS & Radio Ra2 Exclusive.', 'Savant Programming Certificate.', 'Vantage Lighting Online Certificate.', 'Control4 Programming Certificate.', 'Elan Programming Certificate.']
+Davenport University, Grand Rapids, MI (Virtual)
+['[January, 2020 – October, 2020]']
+[]
+['Completed Two Semesters of Computer Programming Degree with Specialty in Data Base Design and Management.', 'Microsoft Office: Word, Excel, PowerPoint, Outlook, Project, Teams']
+SKILLS
+['Soldering', 'Troubleshooting', 'Verbal and written communication', 'Attention to detail', 'Project planning', 'Organization', 'Wire termination & testing: RJ45, RG6, Speaker Terminals', 'Teamwork', 'Mac OS X and Windows', 'Wire pulling', 'Command Line Interface: Mac OS X Terminal, Windows Command Prompt', 'Basic understanding of Python, C#, HTTP, & other programming languages', 'Networking: VLAN’s, VPN, STP, DHCP, POE, DNS']
